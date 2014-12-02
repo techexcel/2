@@ -1,0 +1,7 @@
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\bin\Release\TestWinFormsApp.exe
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\bin\Release\TestWinFormsApp.pdb
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Release\TestWinFormsApp.Form1.resources
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Release\TestWinFormsApp.Properties.Resources.resources
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Release\TestWinFormsApp.csproj.GenerateResource.Cache
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Release\TestWinFormsApp.exe
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Release\TestWinFormsApp.pdb

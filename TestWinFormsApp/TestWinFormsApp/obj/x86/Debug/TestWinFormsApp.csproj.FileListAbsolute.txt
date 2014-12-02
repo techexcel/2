@@ -1,0 +1,16 @@
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\bin\Debug\TestWinFormsApp.exe
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\bin\Debug\TestWinFormsApp.pdb
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.Form1.resources
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.Properties.Resources.resources
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.csproj.GenerateResource.Cache
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.exe
+D:\Work\Test\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.pdb
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\bin\Debug\TestWinFormsApp.exe
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\bin\Debug\TestWinFormsApp.pdb
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.Form1.resources
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.Properties.Resources.resources
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.exe
+D:\TestingSource\TestWinFormsApp\TestWinFormsApp\obj\x86\Debug\TestWinFormsApp.pdb
